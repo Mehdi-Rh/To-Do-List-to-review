@@ -1,4 +1,5 @@
 # LINTERS
+link : https://github.com/microverseinc/linters-config/tree/master/html-css-js 
 
   ## weblint
   Run: npx hint .
