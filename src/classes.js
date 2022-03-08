@@ -1,4 +1,5 @@
-import { containerElement, checkbox } from './index.js';
+const containerElement = document.getElementById('container');
+const checkbox = document.getElementsByClassName('checkbox');
 
 export default class ToDo {
   constructor(description) {
