@@ -1,4 +1,4 @@
-import { containerElement, checkbox } from './variables.js';
+import { containerElement, checkbox } from './index.js';
 
 export default class ToDo {
   constructor(description) {

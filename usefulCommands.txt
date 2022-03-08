@@ -14,7 +14,7 @@ link : https://github.com/microverseinc/linters-config/tree/master/html-css-js
   ## EsLint
 
   Auto error fix run: 
-    npx eslint . --fix
+npx eslint . --fix
 ____________________________________________________
 
 # GIT COMMANDS
